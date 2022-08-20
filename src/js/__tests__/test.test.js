@@ -1,4 +1,4 @@
-import { calculateLife } from '../app.js';
+import calculateLife from '../app';
 
 test('calculateLifeGreen', () => {
   const person = {
